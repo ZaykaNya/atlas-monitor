@@ -39,7 +39,7 @@ user can do all of this using GUI.
 ### Author
 Andreev Danil | danssg08@gmail.com | https://github.com/DanilAndreev
 ### Team
-* Demchyhsin Andrey | https://github.com/ZaykaNya
+* Demchyshyn Andrii | https://github.com/ZaykaNya
 * Nesterov Nikita | https://github.com/Who1sthatdude
 ### Repository
 You can fin GitHub repository of this project [here](https://github.com/AtlasRender/atlas-monitor)
